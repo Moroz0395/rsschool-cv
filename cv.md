@@ -14,3 +14,9 @@
 var myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';
 ```
+## Work experience
+NO
+## Education
+I graduated from Novomoskovsk Institut Russian Chemical-Technological University. I was trained as an engineer in energetic. 
+## English level
+My English level is A2 but I improve it every day
